@@ -3,7 +3,7 @@ const app = express();
 const axios = require('axios');
 const cors = require('cors');
 
-const apiKey = '**************************';
+const apiKey = '67ccf924682940668867bec07d121ec3';
 const endpoint = 'https://api.cognitive.microsofttranslator.com/';
 const region = 'northeurope';
 
